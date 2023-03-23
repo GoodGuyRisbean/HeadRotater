@@ -1,0 +1,7 @@
+name: HeadRotator
+version: '1.0.0'
+main: io.github.goodguyrisbean.HeadRotatorPlugin
+api-version: 1.19
+commands:
+  시작:
+  중지:
